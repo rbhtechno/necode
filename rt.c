@@ -1,19 +1,16 @@
 #include <stdio.h>
 
-
-#####
-### new file added 
-######
-######
-#####
-
-
 int main()
 {
- // new changes : new line, rebase example
-
   int a,b;
-  int bh;
+  
+// this is a wrong variable that was wrongly added in commit 17d1e4f
+  //int bh;
+
+// this is the correct variable
+
+int gh;
+
 
   printf("hello ui");
 return (0);
