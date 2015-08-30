@@ -2,14 +2,11 @@
 
 int main()
 {
-  int a,b;
-  
-// this is a wrong variable that was wrongly added in commit 17d1e4f
-  //int bh;
+   // wrong variables added 
+  //int a,b;
 
-// this is the correct variable
-
-int gh;
+// correct variables
+ itn u,m;
 
 
   printf("hello ui");
