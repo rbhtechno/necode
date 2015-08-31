@@ -1,19 +1,35 @@
 #include <stdio.h>
 
 
+int add(int a, int b);
+
+
+int add(int a,int b)
+{
+ int c;
+ c=a+b;
+
+return c;
+
+}
+
+
 int main()
 {
- 
-  int a,b;
+  int a1,b1;
   
-int cd;
-ind cd =a+b;
+// this is a wrong variable that was wrongly added in commit 17d1e4f
+  //int bh;
 
-  int a,b;
-  
-int gh;
 
-  printf("hello ui");
+
+
+printf("hello ui");
+
+
+//function call here
+printf("result of addition is:%d", add(3,2));
+
 return (0);
 }
 
