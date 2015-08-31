@@ -1,12 +1,13 @@
 #include <stdio.h>
 
+
 int main()
 {
-   // wrong variables added 
-  //int a,b;
-
-// correct variables
- itn u,m;
+ 
+  int a,b;
+  
+int cd;
+ind cd =a+b;
 
 
   printf("hello ui");
