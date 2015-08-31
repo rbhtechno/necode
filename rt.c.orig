@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+<<<<<<< HEAD
+int main()
+{
+   // wrong variables added 
+  //int a,b;
+
+// correct variables
+ itn u,m;
+
+=======
+
+int main()
+{
+ 
+  int a,b;
+  
+int cd;
+ind cd =a+b;
+>>>>>>> rebas
+
+  printf("hello ui");
+return (0);
+}
+
+
