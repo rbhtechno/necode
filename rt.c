@@ -1,19 +1,13 @@
 #include <stdio.h>
 
 
-#####
-### new file added 
-######
-######
-#####
-
-
 int main()
 {
- // new changes : new line, rebase example
-
+ 
   int a,b;
-  int bh;
+  
+int cd;
+ind cd =a+b;
 
   printf("hello ui");
 return (0);
