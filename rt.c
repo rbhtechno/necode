@@ -1,9 +1,11 @@
 #include <stdio.h>
 
 
+//function declaration here
 int add(int a, int b);
 
 
+//funcion definition here
 int add(int a,int b)
 {
  int c;
